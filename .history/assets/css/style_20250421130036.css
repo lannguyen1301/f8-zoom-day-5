@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: "poppins", sans-serif;
+}
+
+/* commot*/
+a {
+    text-decoration: none;
+}
+
+inner 
+
+.title-desc {
+    font-size: 3rem;
+    text-align: center;
+}
