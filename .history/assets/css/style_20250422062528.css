@@ -184,18 +184,9 @@ form {
 }
 
 /* .form-group input:focus {
-    border-color: red;
-}
+    border: red;
+} */
 
 .form-regis .form-group input:focus {
     border-color: red;
-} */
-
-input:focus {
-    border-radius: red;
-}
-
-input:focus {
-    border-color: blue; /* Viền chuyển thành màu xanh khi focus */
-    box-shadow: 0 0 5px rgba(0, 0, 255, 0.5); /* Hiệu ứng đổ bóng */
 }
